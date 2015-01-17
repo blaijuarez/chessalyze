@@ -1,0 +1,2 @@
+# chessalyze
+Analyzer chess moves
